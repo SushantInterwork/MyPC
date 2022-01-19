@@ -1,6 +1,4 @@
 package twoD_Arrays;
-
-import java.io.*;
 import java.util.*;
 
 public class Spiral {
