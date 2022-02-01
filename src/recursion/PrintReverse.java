@@ -1,6 +1,6 @@
 package recursion;
-
-public class reverse {
+//to print array in reverse
+public class PrintReverse {
 	public static void rev(int i, int n, int [] arr)
 	{
 	   if(i==n)

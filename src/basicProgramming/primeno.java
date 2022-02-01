@@ -1,3 +1,4 @@
+package basicProgramming;
 import java.util.*;
 public class primeno {
 

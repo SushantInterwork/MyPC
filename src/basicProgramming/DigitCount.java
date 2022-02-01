@@ -1,3 +1,4 @@
+package basicProgramming;
 import java.util.Scanner;
 
 public class DigitCount {
